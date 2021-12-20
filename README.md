@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 2021-Dec-20
-      Today, i'm not new here in my github. I created my account 1 and half years ago. But I don't know how to use it. 
+      Today, i'm not new here in my github. I created my account 2 and half years ago. But I don't know how to use it. 
       Today i'm here to modifity my content. And I alawys aware here to update contact as well as my own personality. 
       
      In this gitHub account i'll update at least every week.
